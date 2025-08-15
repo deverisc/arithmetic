@@ -1,5 +1,5 @@
-$data = "System.Management.Automation." + "Am"
-$data0 = "si"
+$data = "System.Management"
+$data0 = ".Automation." + "Am" + "si"
 $data2 = "Utils"
 $var1 = $data + $data0 + $data2
 $data3 = "am" + "si" + "Init"
