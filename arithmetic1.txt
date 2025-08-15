@@ -1,4 +1,3 @@
-$data = "System.Management"
 $data0 = ".Automation." + "Am" + "si"
 $data2 = "Utils"
 $var1 = $data + $data0 + $data2
