@@ -1,6 +1,7 @@
-$data = "System.Management.Automation." + "Am" + "si"
+$data = "System.Management.Automation." + "Am"
+$data0 = "si"
 $data2 = "Utils"
-$var1 = $data + $data2
+$var1 = $data + $data0 + $data2
 $data3 = "am" + "si" + "Init"
 $data4 = "Failed"
 $var2 = $data3 + $data4
